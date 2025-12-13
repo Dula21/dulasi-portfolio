@@ -1,3 +1,7 @@
 index.html
 style.css
 scripts.js
+react/public/vite.svg
+node_modules/
+eslint.config.js
+react/README.md
