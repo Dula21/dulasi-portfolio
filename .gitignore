@@ -5,3 +5,6 @@ react/public/vite.svg
 node_modules/
 eslint.config.js
 react/README.md
+src/assets/react.svg
+src/assets/vite.svg
+src/assets/favicon.svg
