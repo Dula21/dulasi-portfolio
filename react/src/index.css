@@ -1,13 +1,23 @@
 
 @import "tailwindcss";
 
+:root {
+  --bg-main: #171417;           /* deeper neutral base */
+  --text-main: #E6E6E6;         /* light but not pure white */
+  --text-muted: #A6A6A6;        /* softer muted for contrast */
+  --accent-main: #8A3C54;       /* deeper dusty rose */
+  --accent-soft: rgba(138, 60, 84, 0.2);
+  --border-soft: rgba(255, 255, 255, 0.05);
+}
+
+
 html,
 body {
   margin: 0;
   padding: 0;
-  font-family: "Space Grotesk", sans-serif;
-  background: #0a0a0a;
-  color: #f3f4f6;
+  font-family:  "Poppinns";
+  background: var(--bg-main);
+  color: var(--text-main);
 }
 
 @layer utilities {
