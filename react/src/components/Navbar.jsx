@@ -5,12 +5,12 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
     document.body.style.overflow = menuOpen ? "hidden" : "";
   }, [menuOpen]);
   return (
-    <nav className="fixed top-0 w-full z-40 bg-[rgba(10, 10, 10, 0.8)] backdrop-blur-lg border-b border-white/10 shadow-lg">
+    <nav className="fixed top-0 w-full z-40 bg-#4A2C32 backdrop-blur-lg border-b border-[var(--border-soft)]">
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <a href="#home" className="font-mono text-xl font-bold text-white">
             {" "}
-            Dulasi<span className="text-blue-500">.tech</span>{" "}
+            Dulasi<span className="text-[var(--accent-main)]">.tech</span>{" "}
           </a>
 
           <div
@@ -23,28 +23,28 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
           <div className="hidden md:flex items-center space-x-8">
             <a
               href="#home"
-              className="text-gray-300 hove:text-white transition-colors"
+              className="text-text-[var(--accent-main)] hove:text-[var(--text-main)]"
             >
               {" "}
               Home
             </a>
             <a
               href="#about"
-              className="text-gray-300 hove:text-white transition-colors"
+              className="text-text-[var(--accent-main)] hove:text-[var(--text-main)]"
             >
               {" "}
               About{" "}
             </a>
             <a
               href="#projects"
-              className="text-gray-300 hove:text-white transition-colors"
+              className="text-text-[var(--accent-main)] hove:text-[var(--text-main)]"
             >
               {" "}
               Projects{" "}
             </a>
             <a
               href="#contact"
-              className="text-gray-300 hove:text-white transition-colors"
+              className="text-text-[var(--accent-main)] hove:text-[var(--text-main)]"
             >
               {" "}
               Contact{" "}
