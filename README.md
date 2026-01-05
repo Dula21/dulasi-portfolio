@@ -78,14 +78,20 @@ This project is open-source and available for personal and educational use.
 
 ## 🚀 Getting Started (Local Setup)
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 ```bash
 git clone https://github.com/Dula21/dulasi-portfolio.git
 cd dulasi-portfolio
-
-Install dependencies
+---
+```
+### 2️⃣ Install dependencies
+```bash
 npm install
-
-Run the development server
+```
+### 3️⃣ Run the development server
+```bash
 npm run dev
+
+```
+⭐ If you like this portfolio, feel free to star the repository!
 
