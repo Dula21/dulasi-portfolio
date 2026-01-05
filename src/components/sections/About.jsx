@@ -29,7 +29,7 @@ export const About = () => {
               {/* Profile Image */}
               <div className="flex justify-center">
                 <img
-                  src="/public/profile.jpg"
+                  src="public/profile.jpg"
                   alt="Dulasi"
                   className="w-40 h-40 md:w-48 md:h-48 object-cover rounded-2xl
                              border border-[var(--border-soft)] shadow-lg"
