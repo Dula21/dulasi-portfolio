@@ -3,7 +3,11 @@
 A modern, responsive personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**.  
 This portfolio showcases my skills, education, projects, and work experience, and includes a contact form powered by **EmailJS**.
 
-🔗 **Live Demo:** https://dula21.github.io/dulasi-portfolio/react/
+🔗 **Live Demo:** https://dula21.github.io/dulasi-portfolio
+
+---
+
+<img width="1254" height="636" alt="image" src="https://github.com/user-attachments/assets/d898bff8-9f9a-41ad-9cdb-b5ba3b390280" />
 
 ---
 
@@ -52,25 +56,46 @@ This portfolio showcases my skills, education, projects, and work experience, an
 
 ---
 
-## 🚀 Getting Started (Local Setup)
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/Dula21/dulasi-portfolio.git
-cd dulasi-portfolio/react
-
-Install dependencies
-npm install
-
-Run the development server
-npm run dev
-
-📬 Contact
+## 📬 Contact
 
 If you'd like to collaborate or get in touch:
 
-📧 Email: (add your email here if you want)
+📧 Email: nethmadulasi15@gmail.com
 
 💼 LinkedIn: (optional)
 
 🧑‍💻 GitHub: https://github.com/Dula21
+
+
+---
+
+## 📄 License
+
+This project is open-source and available for personal and educational use.
+
+---
+
+## Special Thanks to
+@Pedro Tech Youtube Channel
+
+---
+
+## 🚀 Getting Started (Local Setup)
+
+### 1️ Clone the repository
+```bash
+git clone https://github.com/Dula21/dulasi-portfolio.git
+cd dulasi-portfolio
+---
+```
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+### 3️⃣ Run the development server
+```bash
+npm run dev
+
+```
+⭐ If you like this portfolio, feel free to star the repository!
+
