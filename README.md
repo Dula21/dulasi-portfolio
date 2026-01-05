@@ -7,7 +7,7 @@ This portfolio showcases my skills, education, projects, and work experience, an
 
 ---
 
-<img width="1254" height="636" alt="image" src="https://github.com/user-attachments/assets/d898bff8-9f9a-41ad-9cdb-b5ba3b390280" />
+<img width="1237" height="641" alt="image" src="https://github.com/user-attachments/assets/c2b74b92-0a6d-4029-8264-b8c1dc028ade" />
 
 ---
 
@@ -86,7 +86,7 @@ This project is open-source and available for personal and educational use.
 ```bash
 git clone https://github.com/Dula21/dulasi-portfolio.git
 cd dulasi-portfolio
----
+
 ```
 ### 2️⃣ Install dependencies
 ```bash
