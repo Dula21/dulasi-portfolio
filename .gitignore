@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 /public/vite.svg
 /src/assets/react.svg
+
+eslint.config.js
