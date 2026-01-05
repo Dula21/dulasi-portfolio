@@ -63,12 +63,14 @@ If you'd like to collaborate or get in touch:
 
 
 ---
+
 ##📄 License
 
 This project is open-source and available for personal and educational use.
 
 ---
-## Speacial Thanks to
+
+## Special Thanks to
 @Pedro Tech Youtube Channel
 
 ---
