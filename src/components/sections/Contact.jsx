@@ -49,6 +49,7 @@ export const Contact = () => {
           </h2>
 
           <form className="space-y-6" onSubmit={handleSubmit}>
+          
             {/* REQUIRED FOR EMAILJS */}
             <input type="hidden" name="to_name" value="Dulasi" />
 
